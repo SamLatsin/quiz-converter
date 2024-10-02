@@ -1,0 +1,13 @@
+{
+  "main.css": "/quiz-converter/static/css/main.cabdd3cf.chunk.css",
+  "main.js": "/quiz-converter/static/js/main.c594c35b.chunk.js",
+  "main.js.map": "/quiz-converter/static/js/main.c594c35b.chunk.js.map",
+  "static/js/1.f5ae269d.chunk.js": "/quiz-converter/static/js/1.f5ae269d.chunk.js",
+  "static/js/1.f5ae269d.chunk.js.map": "/quiz-converter/static/js/1.f5ae269d.chunk.js.map",
+  "runtime~main.js": "/quiz-converter/static/js/runtime~main.a9a59ff2.js",
+  "runtime~main.js.map": "/quiz-converter/static/js/runtime~main.a9a59ff2.js.map",
+  "static/css/main.cabdd3cf.chunk.css.map": "/quiz-converter/static/css/main.cabdd3cf.chunk.css.map",
+  "index.html": "/quiz-converter/index.html",
+  "precache-manifest.9847a12253245d1c8577d7292eb6a9f6.js": "/quiz-converter/precache-manifest.9847a12253245d1c8577d7292eb6a9f6.js",
+  "service-worker.js": "/quiz-converter/service-worker.js"
+}

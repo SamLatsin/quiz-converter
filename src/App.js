@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
 import './App.css';
 import moodleXMLtoJson from 'moodlexml-to-json';
-import aikenToMoodleXML from 'aiken-to-moodlexml';
+import aikenToMoodleXML from './aikenConverter';
 import sampleAiken from './sampleAiken';
 // import * as Moodle from './moodle';
 
@@ -23,7 +23,7 @@ class App extends Component {
     return (
       <div className="App">
         <header>
-          <h1> <i className="material-icons">school</i> QUIZ converter</h1>
+          <h1> <i className="material-icons">school</i> QUIZ converter 2.0</h1>
           <div className="links">
             <a target="_blank" rel="noreferrer noopener" href="https://docs.moodle.org/38/en/Moodle_XML_format">MoodleXML</a>
             <a target="_blank" rel="noreferrer noopener" href="https://docs.moodle.org/38/en/Aiken_format">Aiken</a>
